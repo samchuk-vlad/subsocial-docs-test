@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["bitmask","The macro that generates a bitmask and it’s associated bit flags."]]});

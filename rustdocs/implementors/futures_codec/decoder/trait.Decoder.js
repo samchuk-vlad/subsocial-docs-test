@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["libp2p_gossipsub"] = [{"text":"impl <a class=\"trait\" href=\"futures_codec/decoder/trait.Decoder.html\" title=\"trait futures_codec::decoder::Decoder\">Decoder</a> for <a class=\"struct\" href=\"libp2p_gossipsub/protocol/struct.GossipsubCodec.html\" title=\"struct libp2p_gossipsub::protocol::GossipsubCodec\">GossipsubCodec</a>","synthetic":false,"types":["libp2p_gossipsub::protocol::GossipsubCodec"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

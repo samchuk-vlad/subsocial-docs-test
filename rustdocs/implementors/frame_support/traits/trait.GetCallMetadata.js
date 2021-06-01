@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["subsocial_runtime"] = [{"text":"impl <a class=\"trait\" href=\"frame_support/traits/trait.GetCallMetadata.html\" title=\"trait frame_support::traits::GetCallMetadata\">GetCallMetadata</a> for <a class=\"enum\" href=\"subsocial_runtime/enum.Call.html\" title=\"enum subsocial_runtime::Call\">Call</a>","synthetic":false,"types":["subsocial_runtime::Call"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["df_traits"] = [];
+implementors["pallet_moderation"] = [{"text":"impl&lt;T:&nbsp;<a class=\"trait\" href=\"pallet_moderation/trait.Trait.html\" title=\"trait pallet_moderation::Trait\">Trait</a>&gt; <a class=\"trait\" href=\"df_traits/moderation/trait.IsPostBlocked.html\" title=\"trait df_traits::moderation::IsPostBlocked\">IsPostBlocked</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u64.html\">u64</a>&gt; for <a class=\"struct\" href=\"pallet_moderation/struct.Module.html\" title=\"struct pallet_moderation::Module\">Module</a>&lt;T&gt;","synthetic":false,"types":["pallet_moderation::Module"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

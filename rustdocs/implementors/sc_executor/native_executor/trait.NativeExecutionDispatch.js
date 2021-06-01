@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["subsocial_node"] = [{"text":"impl <a class=\"trait\" href=\"sc_executor/native_executor/trait.NativeExecutionDispatch.html\" title=\"trait sc_executor::native_executor::NativeExecutionDispatch\">NativeExecutionDispatch</a> for <a class=\"struct\" href=\"subsocial_node/service/struct.Executor.html\" title=\"struct subsocial_node::service::Executor\">Executor</a>","synthetic":false,"types":["subsocial_node::service::Executor"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

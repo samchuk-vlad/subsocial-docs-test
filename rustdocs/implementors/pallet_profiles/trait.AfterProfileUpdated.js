@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["pallet_profile_history"] = [{"text":"impl&lt;T:&nbsp;<a class=\"trait\" href=\"pallet_profile_history/trait.Trait.html\" title=\"trait pallet_profile_history::Trait\">Trait</a>&gt; <a class=\"trait\" href=\"pallet_profiles/trait.AfterProfileUpdated.html\" title=\"trait pallet_profiles::AfterProfileUpdated\">AfterProfileUpdated</a>&lt;T&gt; for <a class=\"struct\" href=\"pallet_profile_history/struct.Module.html\" title=\"struct pallet_profile_history::Module\">Module</a>&lt;T&gt;","synthetic":false,"types":["pallet_profile_history::Module"]}];
+implementors["pallet_profiles"] = [];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

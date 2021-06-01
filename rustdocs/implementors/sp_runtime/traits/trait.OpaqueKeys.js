@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["sp_runtime"] = [];
+implementors["subsocial_runtime"] = [{"text":"impl <a class=\"trait\" href=\"sp_runtime/traits/trait.OpaqueKeys.html\" title=\"trait sp_runtime::traits::OpaqueKeys\">OpaqueKeys</a> for <a class=\"struct\" href=\"subsocial_runtime/opaque/struct.SessionKeys.html\" title=\"struct subsocial_runtime::opaque::SessionKeys\">SessionKeys</a>","synthetic":false,"types":["subsocial_runtime::opaque::SessionKeys"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

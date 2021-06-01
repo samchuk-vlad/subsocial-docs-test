@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pallet_roles"] = [{"text":"impl&lt;T:&nbsp;<a class=\"trait\" href=\"pallet_roles/trait.Trait.html\" title=\"trait pallet_roles::Trait\">Trait</a>&gt; <a class=\"trait\" href=\"df_traits/trait.PermissionChecker.html\" title=\"trait df_traits::PermissionChecker\">PermissionChecker</a> for <a class=\"struct\" href=\"pallet_roles/struct.Module.html\" title=\"struct pallet_roles::Module\">Module</a>&lt;T&gt;","synthetic":false,"types":["pallet_roles::Module"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

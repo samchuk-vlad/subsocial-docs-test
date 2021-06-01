@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Call","Dispatchable calls."]],"struct":[["EditHistory",""],["Module",""],["ProfileHistoryRecord",""]],"trait":[["Trait","The pallet’s configuration trait."]]});

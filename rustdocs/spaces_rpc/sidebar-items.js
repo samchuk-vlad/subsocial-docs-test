@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["gen_client","The generated client module."]],"struct":[["Spaces",""]],"trait":[["SpacesApi",""],["SpacesRuntimeApi",""]]});
